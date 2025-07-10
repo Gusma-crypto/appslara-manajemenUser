@@ -2,8 +2,8 @@
 
 Appslara adalah aplikasi manajemen user berbasis Laravel yang menyediakan sistem autentikasi, otorisasi (berbasis role), dan manajemen pengguna secara dinamis. Dibuat dengan Laravel Breeze, Spatie Laravel-Permission, dan TailwindCSS.
 ## Sc
-![Manajemen User]('1.png');
-![Setting Mail]('2.png');
+![Manajemen User](https://github.com/Gusma-crypto/appslara-manajemenUser/blob/main/1.png);
+![Setting Mail](https://github.com/Gusma-crypto/appslara-manajemenUser/blob/main/2.png);
 ## ✨ Fitur
 
 - Autentikasi menggunakan Laravel Breeze (Login, Register)
